@@ -6,7 +6,7 @@
 
 **Установка**
 
-    cordova plugin add https://github.com/iRapoo/cordova-vk-auth --variable VK_APP_ID=1234567 //Только цифры
+    cordova plugin add https://github.com/rvlasenko/cordova-vk-auth --variable VK_APP_ID=1234567 //Только цифры
 
 **Пример использования**
 
